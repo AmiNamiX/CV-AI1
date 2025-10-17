@@ -1,0 +1,11 @@
+CV: Jānis Bērziņš
+
+Izglītība: Informācijas tehnoloģiju speciālists
+
+Darba pieredze:
+- Python skriptu izstrāde, 1 gads
+- REST API testēšana
+- Darbs individuāli
+
+Papildus prasmes:
+- HTML, CSS, JavaScript

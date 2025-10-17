@@ -1,0 +1,12 @@
+CV: Anna Ozola
+
+Izglītība: Datorzinātnes bakalaurs
+
+Darba pieredze:
+- Python programmētāja, SIA “Dati”, 3 gadi (REST API, skriptu izstrāde)
+- SQL datubāzes (MySQL, PostgreSQL)
+- Darbs komandā, Agile vide
+- Docker kontenerizācija
+
+Papildus prasmes:
+- Java pamatzināšanas

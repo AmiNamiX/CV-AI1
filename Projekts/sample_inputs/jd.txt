@@ -1,0 +1,8 @@
+Darba apraksts: Python programmētājs
+
+Prasības:
+- Pieredze ar Python vismaz 2 gadi
+- Zināšanas par REST API izstrādi
+- Pieredze darbā ar SQL datubāzēm
+- Prasme strādāt komandā
+- Vēlama pieredze ar Docker

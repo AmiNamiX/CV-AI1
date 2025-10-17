@@ -1,0 +1,11 @@
+CV: Ilze Kalniņa
+
+Izglītība: Inženierzinātnes maģistrs
+
+Darba pieredze:
+- C++ un Java izstrāde (5 gadi)
+- SQL datubāzu administrēšana
+- Komandas vadība
+
+Papildus prasmes:
+- Pamatzināšanas par Python
